@@ -1,0 +1,49 @@
+.home {
+  padding-top: 90px;
+  background-color: #232323;
+  height: 100vh;
+  color: #dedede;
+}
+
+.cuby {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cuby button {
+  background-color: #232323;
+  border: 1px solid #616161;
+  color: #ededed;
+  width: 230px;
+  border-radius: 21px;
+  padding: 7px 0px;
+  cursor: pointer;
+  outline: none;
+}
+
+.cuby button:hover {
+  background-color: #ededed;
+  color: #232323;
+  font-weight: 500;
+}
+
+.friend-text {
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.assemble-text {
+  font-size: 20px;
+}
+
+.home-footer {
+  position: absolute;
+  bottom: 14px;
+  right: 50px;
+}
+
+.home-footer span {
+  cursor: pointer;
+}
