@@ -1,6 +1,6 @@
 {
-  "homepage": "https://DIYSpaceCamp.github.io/CUBY",
   "name": "cuby_react",
+  "homepage": "https://DIYSpaceCamp.github.io/CUBY",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
