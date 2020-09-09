@@ -19,8 +19,9 @@ function home() {
                 </div>
             </div>
             <div className="row home-footer">
-                <span><i class="fab fa-github mr-4"></i></span>
-                <span><i class="fab fa-linkedin-in mr-4"></i></span>
+            <span><i class="fab fa-facebook mr-3"></i></span>
+                <span><i class="fab fa-instagram mr-3"></i></span>
+                <span><i class="fab fa-youtube mr-3"></i></span>
                 <span><i class="fab fa-google"></i></span>
             </div>
         </div>
