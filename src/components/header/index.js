@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import logo from '../../assets/logo.png';
 import './style.css';
 
@@ -14,20 +15,24 @@ function header() {
                 </div>
                 <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul className="navbar-nav" id="#navbar-nav">
+                        <Link to="/" className="no-text-decoration">
+                            <li className="nav-item">
+                                <a className="nav-link" href="" >HOME</a>
+                            </li>
+                        </Link>
+
                         <li className="nav-item">
-                            <a className="nav-link" href="#" >HOME</a>
+                            <a className="nav-link" href="#vision" ><span>VISION</span></a>
                         </li>
 
                         <li className="nav-item">
-                            <a className="nav-link" href="#team" ><span>VISION</span></a>
+                            <a className="nav-link" href="#resources"><span>RESOURCES</span></a>
                         </li>
-
-                        <li className="nav-item">
-                            <a className="nav-link" href="#contact"><span>RESOURCES</span></a>
-                        </li>
-                        <li className="nav-item">
-                            <a className="nav-link" href="#"><span>OUTREACH</span></a>
-                        </li>
+                        <Link to="/outreach" className="no-text-decoration">
+                            <li className="nav-item">
+                                <a className="nav-link" href=""><span>OUTREACH</span></a>
+                            </li>
+                        </Link>
 
                         <li className="nav-item">
                             <a className="nav-link" href="#team"><span>TEAM</span></a>

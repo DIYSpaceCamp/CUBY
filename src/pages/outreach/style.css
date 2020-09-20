@@ -1,0 +1,32 @@
+body {
+    background-color: #232323;
+    color: #ededed;
+}
+
+.text-cuby {
+    color: #ededed;
+}
+
+.font20 {
+    font-size: 20px;
+}
+
+.outreach-text a {
+    color: #ededed;
+}
+
+.height100 {
+    height: 100vh;
+}
+
+@media only screen and (max-width: 400px) {
+    .mt_3 {
+        margin-top: 3rem;
+    }
+    .mt_5 {
+        margin-top: 5rem;
+    }
+    .text_center {
+        text-align: center;
+    }
+}
