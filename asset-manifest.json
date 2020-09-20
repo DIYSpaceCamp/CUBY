@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CUBY/static/css/main.8f60a16e.chunk.css",
+    "main.css": "/CUBY/static/css/main.ac08e8ed.chunk.css",
     "main.js": "/CUBY/static/js/main.727a41f7.chunk.js",
     "main.js.map": "/CUBY/static/js/main.727a41f7.chunk.js.map",
     "runtime-main.js": "/CUBY/static/js/runtime-main.dcac3b78.js",
@@ -8,9 +8,9 @@
     "static/js/2.e0850298.chunk.js": "/CUBY/static/js/2.e0850298.chunk.js",
     "static/js/2.e0850298.chunk.js.map": "/CUBY/static/js/2.e0850298.chunk.js.map",
     "index.html": "/CUBY/index.html",
-    "precache-manifest.b32214e237351618f88f0b3dcb0edb87.js": "/CUBY/precache-manifest.b32214e237351618f88f0b3dcb0edb87.js",
+    "precache-manifest.cf3d49850968bdd2553ad42e4ddc7f3c.js": "/CUBY/precache-manifest.cf3d49850968bdd2553ad42e4ddc7f3c.js",
     "service-worker.js": "/CUBY/service-worker.js",
-    "static/css/main.8f60a16e.chunk.css.map": "/CUBY/static/css/main.8f60a16e.chunk.css.map",
+    "static/css/main.ac08e8ed.chunk.css.map": "/CUBY/static/css/main.ac08e8ed.chunk.css.map",
     "static/js/2.e0850298.chunk.js.LICENSE.txt": "/CUBY/static/js/2.e0850298.chunk.js.LICENSE.txt",
     "static/media/Cuby_Garage.png": "/CUBY/static/media/Cuby_Garage.a0008ec6.png",
     "static/media/cuby.webm": "/CUBY/static/media/cuby.42df509c.webm",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.dcac3b78.js",
     "static/js/2.e0850298.chunk.js",
-    "static/css/main.8f60a16e.chunk.css",
+    "static/css/main.ac08e8ed.chunk.css",
     "static/js/main.727a41f7.chunk.js"
   ]
 }
