@@ -9,8 +9,8 @@ function Outreach() {
             <Header />
             <div className="container-fluid outreach d-flex mt_5 height100">
                 <div className="row align-items-center">
-                    <div className="col-lg-4 col-md-4 col-sm-12">
-                        <img src={cuby_garage} alt="" width="100%" />
+                    <div className="col-lg-4 col-md-4 col-sm-12 text_center">
+                        <img src={cuby_garage} alt="" width="100%" className="cuby_garage" />
                     </div>
 
                     <div className="col-lg-8 col-md-8 col-sm-12 text-cuby outreach-text mt_3 text_center">
