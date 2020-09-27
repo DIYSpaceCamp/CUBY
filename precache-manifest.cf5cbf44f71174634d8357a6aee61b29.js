@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "775c00e4313b9b0a48beb495ec24d022",
+    "revision": "5628d77c2ed8f93b4330df9b116a455f",
     "url": "/CUBY/index.html"
   },
   {
-    "revision": "100fbe57a49e4d968734",
-    "url": "/CUBY/static/css/main.1e227748.chunk.css"
+    "revision": "f250f4af4453f6997779",
+    "url": "/CUBY/static/css/main.8f5d1ffc.chunk.css"
   },
   {
     "revision": "eaa6600efb814175d681",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CUBY/static/js/2.54512e0a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "100fbe57a49e4d968734",
-    "url": "/CUBY/static/js/main.5c81621a.chunk.js"
+    "revision": "f250f4af4453f6997779",
+    "url": "/CUBY/static/js/main.ec45da50.chunk.js"
   },
   {
     "revision": "54f29723dbd10583d6c4",
